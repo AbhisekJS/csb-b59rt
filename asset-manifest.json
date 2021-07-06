@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhisekjs.github.io/csb-b59rt/static/css/main.559704f6.chunk.css",
+    "main.js": "https://abhisekjs.github.io/csb-b59rt/static/js/main.18505f39.chunk.js",
+    "main.js.map": "https://abhisekjs.github.io/csb-b59rt/static/js/main.18505f39.chunk.js.map",
+    "runtime-main.js": "https://abhisekjs.github.io/csb-b59rt/static/js/runtime-main.1ae17fb3.js",
+    "runtime-main.js.map": "https://abhisekjs.github.io/csb-b59rt/static/js/runtime-main.1ae17fb3.js.map",
+    "static/js/2.5c807f17.chunk.js": "https://abhisekjs.github.io/csb-b59rt/static/js/2.5c807f17.chunk.js",
+    "static/js/2.5c807f17.chunk.js.map": "https://abhisekjs.github.io/csb-b59rt/static/js/2.5c807f17.chunk.js.map",
+    "index.html": "https://abhisekjs.github.io/csb-b59rt/index.html",
+    "static/css/main.559704f6.chunk.css.map": "https://abhisekjs.github.io/csb-b59rt/static/css/main.559704f6.chunk.css.map",
+    "static/js/2.5c807f17.chunk.js.LICENSE.txt": "https://abhisekjs.github.io/csb-b59rt/static/js/2.5c807f17.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ae17fb3.js",
+    "static/js/2.5c807f17.chunk.js",
+    "static/css/main.559704f6.chunk.css",
+    "static/js/main.18505f39.chunk.js"
+  ]
+}
